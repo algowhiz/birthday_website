@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+  --primary-bg: #D4E2D4;      /* Background */
+  --container-bg: #86EFAC;    /* Container Background */
+  --primary-text: #15803D;    /* Primary Text */
+  --secondary-text: #365C36;  /* Secondary Text */
+  --input-border: #4C7D4C;    /* Input Border */
+  --btn-bg: #15803D;          /* Button Background */
+  --btn-hover-bg: #376737;    /* Button Hover Background */
+  --video-bg: #86A86E;        /* Video Placeholder Background */
+}
